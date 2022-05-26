@@ -102,3 +102,9 @@ createdb trivia_test
 psql trivia_test < trivia.psql
 python test_flaskr.py
 ```
+
+###API Documentation
+
+API follows Restful API convenctions.
+
+The main data returned for both success and failed responses are in the data object. For failed response data contains the message of why it failed and for successfull response data is the main thing requested by the client. Although, other supporting data will be contained in the successful response.
