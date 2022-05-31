@@ -1,4 +1,4 @@
-# Full Stack Trivia API Backend
+# Full Stack Trivia API Backend 
 
 1.  [Start Project locally](#start-project)
 2.  [API Documentation](#api-documentation)
